@@ -1,0 +1,8 @@
+.walletCard {
+	margin: 8rem;
+	border: 1px solid rgb(212, 10, 10);
+	border-radius: 1546px;
+	background-color: rgb(81, 153, 153);
+	backface-visibility: hidden;
+	
+}
